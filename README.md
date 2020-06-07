@@ -10,7 +10,7 @@
 
 Papers of significance are marked in **bold**. My comments are marked in *italic*. Papers of other fields may also included, and we use the following tags to categorize different fields.
 
-\- ![#f03c15](README.assets/000000) Machine learning in EDA
+- ![#f03c15](README.assets/000000) Machine learning in EDA
 
 ### 2019 DAC
 
@@ -29,7 +29,7 @@ To conduct a experiment, datasets, toolchains, hardware configuration, evaluatio
 
 ### Tutorials & Survey
 
-- [EE 382V: VLSI Physical Design Automation](EE 382V: VLSI Physical Design Automation (Spring 2015))(Prof. David Z. Pan, UT ECE)
+- [EE 382V: VLSI Physical Design Automation](http://users.ece.utexas.edu/~dpan/EE382V_PDA/)(Prof. David Z. Pan, UT ECE)
   - slices collections: https://www.dropbox.com/sh/35ea7idub21022t/AACDG6tbubgGD9wK92VbLMGta?dl=0
 - [EE382V: Optimization Issues in VLSI CAD]()(Prof. David Z. Pan, UT ECE)
 
