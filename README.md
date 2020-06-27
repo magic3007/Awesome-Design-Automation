@@ -20,12 +20,11 @@ Papers of significance are marked in **bold**. My comments are marked in *italic
 
 ### 2018 TODAES
 
-
+- <img src="https://placehold.it/15/0abab5/000000?text=+" alt="#0abab5" /> UTPlaceF 2.0: A High-Performance Clock-Aware FPGA Placement Engine (1st-Place Award of ISPD 2017 Contest, *Wuxi Li*, UTA)
 
 ### 2016 ICCAD
 
 - <img src="https://placehold.it/15/0abab5/000000?text=+" alt="#0abab5" /> UTPlaceF: A Routability-Driven FPGA Placer with Physical and Congestion Aware Packing(*Wuxi Li*, UTA)
-- <img src="https://placehold.it/15/0abab5/000000?text=+" alt="#0abab5" /> UTPlaceF 2.0: A High-Performance Clock-Aware FPGA Placement Engine (*Wuxi Li*, UTA)
 
 ## How to Start Up Your Experiments?
 
