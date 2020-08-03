@@ -12,11 +12,15 @@ Papers of significance are marked in **bold**. My comments are marked in *italic
 
 - ![#f03c15](README.assets/000000) Machine learning in EDA
 - <img src="https://placehold.it/15/0abab5/000000?text=+" alt="#0abab5" /> FPGA
+- <img src="https://placehold.it/15/01b312/000000?text=+" alt="#01b312" /> Global Routing
+- <img src="https://placehold.it/15/f4f442/000000?text=+" alt="#f4f442" /> Detailed Routing
 
+### 2020 DAC
+
+- <img src="https://placehold.it/15/01b312/000000?text=+" alt="#01b312" /> CUGR: Detailed-Routability-Driven 3D Global Routing with Probabilistic Resource Model(Jinwei Liu, CUHK) [[repo]](https://github.com/cuhk-eda/cu-gr)
 ### 2019 DAC
 
-- **![#f03c15](README.assets/000000) DREAMPlace: Deep Learning Toolkit-Enabled GPU Acceleration for Modern VLSI Placement(Best Paper Award, Yibo Lin, PKU)**
-  - source code: https://github.com/limbo018/DREAMPlace
+- **![#f03c15](README.assets/000000) DREAMPlace: Deep Learning Toolkit-Enabled GPU Acceleration for Modern VLSI Placement(Best Paper Award, Yibo Lin, PKU)** [[repo]](https://github.com/limbo018/DREAMPlace)
 
 ### 2018 TODAES
 
@@ -40,6 +44,8 @@ To conduct a experiment, datasets, toolchains, hardware configuration, evaluatio
 ### Toolkits
 
 - [Limbo](https://github.com/limbo018/Limbo): Library for VLSI CAD Design Useful parsers and solvers' API.
+- [rsyn-x](https://github.com/RsynTeam/rsyn-x): This framework integrates parsers for common academic and industrial formats as Bookshelf, LEF/DEF, Verilog, Liberty, SDC and SPEF. It provides support for benchmarks from several EDA contests (e.g ISPD, ICCAD).
+- [Innovus®](https://www.cadence.com/content/cadence-www/global/en_US/home/tools/digital-design-and-signoff/soc-implementation-and-floorplanning/innovus-implementation-system.html): Design rule checking and evaluation.
 
 ## Important Issues
 
