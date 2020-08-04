@@ -1,5 +1,7 @@
 # Awesome Design Automation
 
+![license](https://img.shields.io/github/license/magic3007/Awesome-Design-Automation) ![last commit](https://img.shields.io/github/last-commit/magic3007/Awesome-Design-Automation)
+
 🤹‍♀️ Awesome - A curated list of amazing VLSI design automation papers, software and resources.
 
 ## Table of Contents
@@ -17,10 +19,10 @@ Papers of significance are marked in **bold**. My comments are marked in *italic
 
 ### 2020 DAC
 
-- <img src="https://placehold.it/15/01b312/000000?text=+" alt="#01b312" /> CUGR: Detailed-Routability-Driven 3D Global Routing with Probabilistic Resource Model(Jinwei Liu, CUHK) [[repo]](https://github.com/cuhk-eda/cu-gr)
+- <img src="https://placehold.it/15/01b312/000000?text=+" alt="#01b312" /> CUGR: Detailed-Routability-Driven 3D Global Routing with Probabilistic Resource Model(Jinwei Liu, CUHK) [[code]](https://github.com/cuhk-eda/cu-gr)
 ### 2019 DAC
 
-- **![#f03c15](README.assets/000000) DREAMPlace: Deep Learning Toolkit-Enabled GPU Acceleration for Modern VLSI Placement(Best Paper Award, Yibo Lin, PKU)** [[repo]](https://github.com/limbo018/DREAMPlace)
+- **![#f03c15](README.assets/000000) DREAMPlace: Deep Learning Toolkit-Enabled GPU Acceleration for Modern VLSI Placement(Best Paper Award, *Yibo Lin*, PKU)** [[code]](https://github.com/limbo018/DREAMPlace)
 
 ### 2018 TODAES
 
@@ -51,7 +53,7 @@ To conduct a experiment, datasets, toolchains, hardware configuration, evaluatio
 
 ### Tutorials & Survey
 
-- [EE 382V: VLSI Physical Design Automation](http://users.ece.utexas.edu/~dpan/EE382V_PDA/) (Prof. David Z. Pan, UT ECE) [[slices]](https://www.dropbox.com/sh/35ea7idub21022t/AACDG6tbubgGD9wK92VbLMGta?dl=0)
+- [EE 382V: VLSI Physical Design Automation](http://users.ece.utexas.edu/~dpan/EE382V_PDA/) (Prof. David Z. Pan, UT ECE) [[slides]](https://www.dropbox.com/sh/35ea7idub21022t/AACDG6tbubgGD9wK92VbLMGta?dl=0)
 - An series of VLSI physical design courses(NPTEL, India) [[youtube]](https://www.youtube.com/channel/UCTSQnoUHhScO2ceUfqRHaKw/videos)
 - [EE382V: Optimization Issues in VLSI CAD]() (Prof. David Z. Pan, UT ECE)
 
