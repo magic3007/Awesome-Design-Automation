@@ -13,29 +13,29 @@
 Papers of significance are marked in **bold**. My comments are marked in *italic*. Papers of other fields may also included, and we use the following tags to categorize different fields.
 
 - ![#f03c15](README.assets/000000) Machine learning in EDA
-- <img src="https://placehold.it/15/0abab5/000000?text=+" alt="#0abab5" /> FPGA
-- <img src="https://placehold.it/15/01b312/000000?text=+" alt="#01b312" /> Global Routing
-- <img src="https://placehold.it/15/f4f442/000000?text=+" alt="#f4f442" /> Detailed Routing
+- <img src="http://placehold.it/15/0abab5/000000?text=+" alt="#0abab5" /> FPGA
+- <img src="http://placehold.it/15/01b312/000000?text=+" alt="#01b312" /> Global Routing
+- <img src="http://placehold.it/15/f4f442/000000?text=+" alt="#f4f442" /> Detailed Routing
 
 ### 2020 DAC
 
-- <img src="https://placehold.it/15/01b312/000000?text=+" alt="#01b312" /> CUGR: Detailed-Routability-Driven 3D Global Routing with Probabilistic Resource Model(Jinwei Liu, CUHK) [[code]](https://github.com/cuhk-eda/cu-gr)
+- <img src="http://placehold.it/15/01b312/000000?text=+" alt="#01b312" /> CUGR: Detailed-Routability-Driven 3D Global Routing with Probabilistic Resource Model(Jinwei Liu, CUHK) [[code]](https://github.com/cuhk-eda/cu-gr)
 ### 2019 DAC
 
 - **![#f03c15](README.assets/000000) DREAMPlace: Deep Learning Toolkit-Enabled GPU Acceleration for Modern VLSI Placement(Best Paper Award, *Yibo Lin*, PKU)** [[code]](https://github.com/limbo018/DREAMPlace)
 
 ### 2018 TODAES
 
-- <img src="https://placehold.it/15/0abab5/000000?text=+" alt="#0abab5" /> UTPlaceF 2.0: A High-Performance Clock-Aware FPGA Placement Engine (1st-Place Award of ISPD 2017 Contest, *Wuxi Li*, UTA)
+- <img src="http://placehold.it/15/0abab5/000000?text=+" alt="#0abab5" /> UTPlaceF 2.0: A High-Performance Clock-Aware FPGA Placement Engine (1st-Place Award of ISPD 2017 Contest, *Wuxi Li*, UTA)
 
 ### 2017 ICCAD
 
-- <img src="https://placehold.it/15/0abab5/000000?text=+" alt="#0abab5" /> UTPlaceF 3.0: A Parallelization Framework for Modern FPGA Global Placement(*Wuxi Li*, UTA)
+- <img src="http://placehold.it/15/0abab5/000000?text=+" alt="#0abab5" /> UTPlaceF 3.0: A Parallelization Framework for Modern FPGA Global Placement(*Wuxi Li*, UTA)
   - *Rather than empirically making partitions on physics level, the paper leverages matrix-blocking technique on mathematics level*
 
 ### 2016 ICCAD
 
-- <img src="https://placehold.it/15/0abab5/000000?text=+" alt="#0abab5" /> UTPlaceF: A Routability-Driven FPGA Placer with Physical and Congestion Aware Packing(*Wuxi Li*, UTA)
+- <img src="http://placehold.it/15/0abab5/000000?text=+" alt="#0abab5" /> UTPlaceF: A Routability-Driven FPGA Placer with Physical and Congestion Aware Packing(*Wuxi Li*, UTA)
   - *A routability-driven FPGA packing and placement engine*
   - *Routing congestion level is indicated by cell area that may be inflated during FIP flow*
 
